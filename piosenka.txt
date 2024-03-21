@@ -7,7 +7,8 @@
 >>> przeniosłam pierwszą zwrotke do zwrotka2.txt
 
 
->>> przeniosłam refren do refren1.txt
+>>> przeniosłam refren do refren.txt
+
 
 
 >>> przeniosłam pierwszą zwrotke do zwrotka3.txt
