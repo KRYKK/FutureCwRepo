@@ -13,14 +13,9 @@
 >>> przeniosłam pierwszą zwrotke do zwrotka3.txt
 
 
-And I see fire, inside the Mountain
-I see fire, burning the trees
-I see fire, hollowing souls
-I see fire, blood in the breeze
+>>> przeniosłam refren do refren2.txt
+>>> przeniosłam refren do refren3.txt
 
-I see fire, oh you know I saw a city burning (fire)
-And I see fire, feel the heat upon my skin (fire)
-And I see fire, ohohoho (fire)
-And I see fire burn over and on the Mountains side
+
 
 Tekst pochodzi z https://www.tekstowo.pl/piosenka,ed_sheeran,i_see_fire.html
