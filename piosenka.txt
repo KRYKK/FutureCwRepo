@@ -1,11 +1,9 @@
 >>> przeniosłam pierwszą zwrotke do zwrotka1.txt
 
 
-Now I see fire, inside the Mountain
-I see fire, burning the trees
-And I see fire, hollowing souls
-I see fire, blood in the breeze
-And I hope that you'll remember me
+>>> przeniosłam refren do refren.txt
+
+
 
 Oh, should my people fall
 Then surely I'll do the same
