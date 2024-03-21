@@ -7,11 +7,8 @@
 >>> przeniosłam pierwszą zwrotke do zwrotka2.txt
 
 
-Now I see fire, inside the Mountain
-I see fire, burning the trees
-And I see fire, hollowing souls
-I see fire, blood in the breeze
-And I hope that you'll remember me
+>>> przeniosłam refren do refren1.txt
+
 
 And if the night is burning
 I will cover my eyes
